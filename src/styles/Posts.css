@@ -1,0 +1,40 @@
+
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.Posts{
+    margin-top:10px; 
+    margin-left:200px;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    border:solid 2px green;
+    height: 70px;
+    width:60%;
+    word-break:break-all;
+    
+
+}
+
+.left{
+    padding-left:10px;
+   
+    
+
+}
+.Delete{
+    margin-right: 10px;
+    cursor: pointer;
+    color:green;
+    border: 1px solid green;
+    background: transparent;
+    
+}
+.mar{
+    margin-top:10px;
+}
+/* p{word-wrap: break-word; */
+

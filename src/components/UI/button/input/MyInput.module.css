@@ -1,0 +1,11 @@
+
+
+.MyInpt{
+    width:60%;
+    background: transparent;
+    border: 1 px solid teal;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:5px 15px;
+}

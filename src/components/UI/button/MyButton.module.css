@@ -1,0 +1,13 @@
+.MyBtn{
+    padding: 5px 10px;
+    color: teal;
+    border:1px solid teal;
+    font-size:12px; 
+    cursor:pointer;
+    background: transparent;
+    margin-left:15px;
+    width:70px;
+    height:40px;
+    margin-right:10px;
+}
+
